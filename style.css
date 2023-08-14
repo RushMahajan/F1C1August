@@ -1,0 +1,10 @@
+body{
+    padding: 30px;
+}
+#section01{
+    border: 2px solid black;
+    padding: 30px;
+}
+a{
+    color: black;
+}
